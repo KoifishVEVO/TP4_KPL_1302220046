@@ -3,8 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod4\\tpmodul4_1302220046\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2C32880-A84D-4F1A-B43C-D547D81CCBB2}|tpmodul4_1302220046\\tpmodul4_1302220046.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod4\\tpmodul4_1302220046\\tpmodul4_1302220046\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C32880-A84D-4F1A-B43C-D547D81CCBB2}|tpmodul4_1302220046\\tpmodul4_1302220046.csproj|solutionrelative:tpmodul4_1302220046\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2C32880-A84D-4F1A-B43C-D547D81CCBB2}|tpmodul4_1302220046\\tpmodul4_1302220046.csproj|c:\\users\\lenovo\\downloads\\skool tugas\\semester 4\\konstruksi\\tp\\mod4\\tpmodul4_1302220046\\tpmodul4_1302220046\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2C32880-A84D-4F1A-B43C-D547D81CCBB2}|tpmodul4_1302220046\\tpmodul4_1302220046.csproj|solutionrelative:tpmodul4_1302220046\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\backups\\classing seperated still table\\tpmodul4_1302220046\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +21,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\backups\\classing seperated still table\\tpmodul4_1302220046\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\backups\\classing seperated still table\\tpmodul4_1302220046\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\backups\\classing seperated still table\\tpmodul4_1302220046\\Program.cs",
+              "RelativeToolTip": "..\\..\\backups\\classing seperated still table\\tpmodul4_1302220046\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:25:31.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod4\\tpmodul4_1302220046\\tpmodul4_1302220046\\KodePos.cs",
+              "RelativeDocumentMoniker": "tpmodul4_1302220046\\KodePos.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod4\\tpmodul4_1302220046\\tpmodul4_1302220046\\KodePos.cs",
+              "RelativeToolTip": "tpmodul4_1302220046\\KodePos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:25:08.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod4\\tpmodul4_1302220046\\tpmodul4_1302220046\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul4_1302220046\\Program.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\skool tugas\\Semester 4\\Konstruksi\\tp\\mod4\\tpmodul4_1302220046\\tpmodul4_1302220046\\Program.cs",
               "RelativeToolTip": "tpmodul4_1302220046\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-09T16:20:48.891Z",
               "EditorCaption": ""

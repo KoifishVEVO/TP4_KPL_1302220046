@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\bin\Debug\net8.0\tpmodul4_1302220046.exe
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\bin\Debug\net8.0\tpmodul4_1302220046.deps.json
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\bin\Debug\net8.0\tpmodul4_1302220046.runtimeconfig.json
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\bin\Debug\net8.0\tpmodul4_1302220046.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\bin\Debug\net8.0\tpmodul4_1302220046.pdb
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\obj\Debug\net8.0\tpmodul4_1302220046.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\obj\Debug\net8.0\tpmodul4_1302220046.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\obj\Debug\net8.0\tpmodul4_1302220046.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\obj\Debug\net8.0\tpmodul4_1302220046.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\obj\Debug\net8.0\tpmodul4_1302220046.sourcelink.json
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\obj\Debug\net8.0\tpmodul4_1302220046.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\obj\Debug\net8.0\refint\tpmodul4_1302220046.dll
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\obj\Debug\net8.0\tpmodul4_1302220046.pdb
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\obj\Debug\net8.0\tpmodul4_1302220046.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\skool tugas\Semester 4\Konstruksi\tp\mod4\tpmodul4_1302220046\tpmodul4_1302220046\obj\Debug\net8.0\ref\tpmodul4_1302220046.dll
