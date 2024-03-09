@@ -12,5 +12,9 @@ class Program
         Console.WriteLine(kodePos.getKodePos(Kelurahan.Batununggal));
         Console.WriteLine(kodePos.getKodePos(Kelurahan.Kujangsari));
         Console.WriteLine(kodePos.getKodePos(Kelurahan.Kebonwaru));
+
+        DoorMachine doorMachine = new DoorMachine();
+        doorMachine.Run();
+
     }
 }
